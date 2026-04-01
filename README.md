@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Irvine (Ngoc Quynh)</h1>
+<h1 align="center">Xin chào, I'm Irvine (Ngoc Quynh)</h1>
 <h3 align="center">Frontend Developer & Information Systems Student from Viet Nam 🇻🇳</h3>
 
 <p align="center">
@@ -10,34 +10,34 @@ Passionate about building web applications, learning new technologies, and explo
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 Student at **University of Information Technology – VNU-HCM**
-- 💻 Interested in **Frontend Development, Web Applications, and Game Development**
-- 🔭 Currently working on **AI Rage Adventure Game**
-- 🌱 Currently learning **Java, Python, Git, and Web Development**
-- 🎯 Goal: Become a **professional software developer and build impactful tech products**
+- Student at **University of Information Technology – VNU-HCM**
+- Interested in **Frontend Development, Web Applications, and Game Development**
+- Currently working on **AI Rage Adventure Game**
+- Currently learning **Java, Python, Git, and Web Development**
+- Goal: Become a **professional software developer and build impactful tech products**
 
 ---
 
-### 🔭 Current Project
+### Current Project
 
-- 🎮 **AI Rage Adventure Game**  
+- **AI Rage Adventure Game**  
   A rage-style adventure game with AI-based mechanics designed to challenge players.
 
 🔗 https://github.com/Prosperum26/chuck-king
 
 ---
 
-### 💻 My Projects
+### My Projects
 
-- 📚 **SachLuyenThi Website**  
+- **SachLuyenThi Website**  
   Static book showcase website with clean UI and external resource links.
 
-- ⏱ **Pomodoro Timer Website**  
+- **Pomodoro Timer Website**  
   A simple web-based Pomodoro timer to support focused study sessions.
 
-- 🖼 **Image Processing Mini Projects**  
+- **Image Processing Mini Projects**  
   Python scripts for image processing and automation.
 
 🔗 All projects:  
@@ -45,15 +45,15 @@ https://github.com/irvine-qn
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
-- 📧 Email: **quynhngoc4076@gmail.com**
-- 💼 LinkedIn:  
+- Email: **quynhngoc4076@gmail.com**
+- LinkedIn:  
 https://linkedin.com/in/quynhngoc07
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/quynhngoc07" target="blank">
@@ -63,7 +63,7 @@ https://linkedin.com/in/quynhngoc07
 
 ---
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 <p align="left">
 
@@ -81,4 +81,4 @@ https://linkedin.com/in/quynhngoc07
 
 ---
 
-⭐ From **Irvine (Ngoc Quynh)**
+From **Irvine (Ngoc Quynh)**

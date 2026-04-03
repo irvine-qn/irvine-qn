@@ -1,11 +1,11 @@
 <h1 align="center">Xin chào, I'm Irvine (Ngoc Quynh)</h1>
-<h3 align="center">Frontend Developer & Information Systems Student from Viet Nam 🇻🇳</h3>
+<h3 align="center">Frontend Developer & Information Systems Student from Viet Nam </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=irvine-qn&label=Profile%20views&color=0e75b6&style=flat" alt="irvine-qn" />
 </p>
 <p align="center">
-Passionate about building web applications, learning new technologies, and exploring game development.
+Passionate about building web applications, learning new technologies, exploring AI models and gaining new knowledge about Machine Learning.
 </p>
 
 ---
@@ -13,18 +13,16 @@ Passionate about building web applications, learning new technologies, and explo
 ### About Me
 
 - Student at **University of Information Technology – VNU-HCM**
-- Interested in **Frontend Development, Web Applications, and Game Development**
-- Currently working on **AI Rage Adventure Game**
+- Interested in **Frontend Development, Web Applications, and AI Models**
 - Currently learning **Java, Python, Git, and Web Development**
 - Goal: Become a **professional software developer and build impactful tech products**
 
 ---
 
-### Current Project
+### Group Project
 
 - **AI Rage Adventure Game**  
   A rage-style adventure game with AI-based mechanics designed to challenge players.
-
 🔗 https://github.com/Prosperum26/chuck-king
 
 ---
@@ -48,8 +46,7 @@ https://github.com/irvine-qn
 ### Contact Me
 
 - Email: **quynhngoc4076@gmail.com**
-- LinkedIn:  
-https://linkedin.com/in/quynhngoc07
+- LinkedIn: **https://linkedin.com/in/quynhngoc07**
 
 ---
 

@@ -23,23 +23,29 @@ Passionate about building web applications, learning new technologies, exploring
 
 - **AI Rage Adventure Game**  
   A rage-style adventure game with AI-based mechanics designed to challenge players.
+  
 🔗 https://github.com/Prosperum26/chuck-king
 
 ---
 
 ### My Projects
 
-- **SachLuyenThi Website**  
+- **SachLuyenThi Website** 
   Static book showcase website with clean UI and external resource links.
+
+🔗 https://irvine-qn.github.io/sachluyenthi/
 
 - **Pomodoro Timer Website**  
   A simple web-based Pomodoro timer to support focused study sessions.
 
+🔗 https://github.com/irvine-qn/Pomodoro-Timer-Website
+
 - **Image Processing Mini Projects**  
   Python scripts for image processing and automation.
+  
+🔗 https://github.com/irvine-qn/blur-and-small-size
+🔗 https://github.com/irvine-qn/gray-scale
 
-🔗 All projects:  
-https://github.com/irvine-qn
 
 ---
 

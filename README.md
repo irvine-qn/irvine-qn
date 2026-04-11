@@ -44,6 +44,7 @@ Passionate about building web applications, learning new technologies, exploring
   Python scripts for image processing and automation.
   
 🔗 https://github.com/irvine-qn/blur-and-small-size
+
 🔗 https://github.com/irvine-qn/gray-scale
 
 
